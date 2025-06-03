@@ -1,4 +1,4 @@
-# Tensorflow_Jetson_Orin
+# Tutorial to compile Tensorflow v2.16 to use C API in Jetson Orin Nano with Jetpack 6.0
 
 Tutorial repository to compile Tensorflow in NVIDIA Jetson Nano with Jetpack 6.0, CUDA 12.2, cuDNN 8.9, and TensorRT 8.6 to use Tensorflow C API.
 

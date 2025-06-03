@@ -13,7 +13,7 @@ Tutorial repository to compile Tensorflow in NVIDIA Jetson Nano with Jetpack 6.0
 - **TensorRT 8.6**
 - **Python 3.10**
 - **Bazel** (>= 6.x) - Used 6.5
-- **SWAP** enabled (recommended: at least 4GB)
+- **SWAP** enabled (recommended: at least 40GB)
 
 ---
 
